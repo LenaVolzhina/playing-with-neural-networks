@@ -12,7 +12,7 @@ Notebooks from Colab
 * [Chapter 5: autoencoders for mnist](DL_chapter_5_autoencoders_for_mnist.ipynb)
 * [Chapter 5: basic convolutions](DL_chapter_5_basic_convolutions.ipynb)
 
-[Scans of my notes](DL notes/DL_notes.pdf)
+[Scans of my notes](DL%20notes/DL_notes.pdf)
 
 Other links:
 * [Convolutions arithmetic](https://github.com/vdumoulin/conv_arithmetic)
